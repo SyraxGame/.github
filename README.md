@@ -1,1 +1,1 @@
-# .github
+# Hello to Syrax Game
