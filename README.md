@@ -1,1 +1,0 @@
-# Hello to Syrax Game
